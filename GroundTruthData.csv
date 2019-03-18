@@ -1,4 +1,4 @@
-bee_id,in_direction,out_direction,video,time_in,time_out
+bee_id,in_direction,out_direction,video,timestamp_in,timestamp_out
 855,right,left,2018-08-19-05-25-51,2018-08-19-05-25-51,2018-08-19-05-25-51
 220,left,right,2018-08-19-05-25-51,2018-08-19-05-25-51,2018-08-19-05-25-51
 1301,left,left,2018-08-19-18-33-03,2018-08-19-18-32-42,2018-08-19-18-33-03
