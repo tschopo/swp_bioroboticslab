@@ -10,18 +10,18 @@ These instructions will get you a copy of the project up and running on your loc
 1. Software
 First you need to have Python 3.7 (2.6 not tested, yet). (Anaconda is also a good solution)
 
-Install diktya, Keras, OpenCV first.
+Install diktya, Keras, OpenCV, dll first.
 
 For this Jupyter Notebook you will need following dependencies:
-Install with pip:
+Install with pip from github:
 
-https://github.com/BioroboticsLab/bb_utils.git
-https://github.com/BioroboticsLab/bb_binary.git
-https://github.com/BioroboticsLab/diktya.git
-https://github.com/BioroboticsLab/bb_pipeline.git
-https://github.com/BioroboticsLab/bb_tracking.git
-https://github.com/BioroboticsLab/bb_behavior.git
-https://github.com/BioroboticsLab/bb_trajectory.git
+pip install --user git+https://github.com/BioroboticsLab/bb_utils.git
+pip install --user git+https://github.com/BioroboticsLab/bb_binary.git
+pip install --user git+https://github.com/BioroboticsLab/diktya.git
+pip install --user git+https://github.com/BioroboticsLab/bb_pipeline.git
+pip install --user git+https://github.com/BioroboticsLab/bb_tracking.git
+pip install --user git+https://github.com/BioroboticsLab/bb_behavior.git
+pip install --user git+https://github.com/BioroboticsLab/bb_trajectory.git
 
 You use an Apple and got a compiler problem with bb_binary?
 Build capnp manually by:
@@ -39,13 +39,17 @@ https://capnproto.org/install.html#installation-windows
 2. Video path
 We have set the path to /videos. You can easily change this path in jupyter file if needed.
 
+3. BeesApp.apk
+
+
 ### Installing
 
 Use git to download this repository (or download and unzip it).
 
 Start Jupyter Notebook:
 - open terminal
-- hit 
+- start JN by typing
+
 ```
 jupyter notebook
 ```
@@ -93,7 +97,7 @@ Do I need some more ressources?
 Furthermore, coffee is never bad at all. 
 
 What is included?
-One main notebook file. (needed) 
+One main notebook file and the .dll file. (needed) 
 CSV files with tracking, detection and test results. (not needed, bc you need to compute them with your clips)
 
 
