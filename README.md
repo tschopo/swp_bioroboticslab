@@ -42,7 +42,7 @@ We have set the path to /videos. You can easily change this path in jupyter file
 
 3. BeesApp.apk
 This app will help you to identify the bee for your test data sheet.
-![Android App view](img/tagging.png){:height="50%" width="50%"}
+<img src="img/tagging.png" alt="smiley" height="36px" width="36px">
 
 ### Installing
 
