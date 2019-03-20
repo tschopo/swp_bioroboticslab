@@ -41,7 +41,8 @@ https://capnproto.org/install.html#installation-windows
 We have set the path to /videos. You can easily change this path in jupyter file if needed.
 
 3. BeesApp.apk
-
+This app will help you to identify the bee for your test data sheet.
+![Alt text](img/tagging.png?raw=true "Manually tag of a bee")
 
 ### Installing
 
