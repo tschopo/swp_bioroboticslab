@@ -1,4 +1,4 @@
-# Tracking bees in a tupe
+# Tracking bees in a tube
 
 Our aim is to track bees with Deep Learning Computer Vision Pipeline and grap ID and movement.
 ![Alt text](img/detected.png?raw=true "Beetracking")
