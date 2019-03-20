@@ -45,39 +45,26 @@ Use git to download this repository (or download and unzip it).
 
 Start Jupyter Notebook:
 - open terminal
-- hit "jupyter notebook"
+- hit 
+```
+jupyter notebook
+```
 
-start Jupyter file. Done.
+start Jupyter file. 
+Done.
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+If your video path is set correctly you can start each box by hitting Shift+Return from up to down.
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-follows
+Take a coffee if you have a lot of clips. I may take a while to track all bees. We used around 200 clips and it took 1 hour to track all bees.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Jupyter](https://jupyter.org) - Jupyter Notebook
+* [Python](https://www.python.org) - Python
 
 ## Contributing
 
@@ -85,7 +72,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+No versioning used.
 
 ## Authors
 
@@ -99,9 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to the FU Berlin bioroboticlabs group to provide us with their data and knowledge.
 
 ## FAQ
 Do I need some more ressources? 
