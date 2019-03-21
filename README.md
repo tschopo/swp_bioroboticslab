@@ -1,7 +1,7 @@
 # Tracking bees in a tube
 
-Our aim is to track bees with Deep Learning Computer Vision Pipeline and grap ID and movement.
-![Alt text](img/detected.png?raw=true "Beetracking")
+Our aim is to track bees with the Deep Learning Computer Vision Pipeline provided by the bb_behavior library which can be found under https://github.com/BioroboticsLab/bb_behavior.git and grap the bee-ID to eventually deduce the movement of her.
+![Detected bee](img/detected.png?raw=true "Beetracking")
 
 ## Getting Started
 
