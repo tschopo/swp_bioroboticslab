@@ -65,7 +65,7 @@ If your video path is set correctly you can start each box by hitting Shift+Retu
 
 ### Break down into end to end tests
 
-Take a coffee if you have a lot of clips. I may take a while to track all bees. We used around 200 clips and it took 1 hour to track all bees.
+Take a coffee if you have a lot of clips. It may take a while to track all bees. We used around 200 clips and it took 1 hour to track all bees.
 
 ## Built With
 
@@ -82,7 +82,7 @@ No versioning used.
 
 ## Authors
 
-* **swp_bioroboticslab** - FU Berlin Computer Science
+* **swp_bioroboticslab** - Freie Universität Berlin - Computer Science
 
 ## License
 
@@ -90,7 +90,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Thanks to the FU Berlin bioroboticlabs group to provide us with their data and knowledge.
+* Thanks to the FU Berlin bioroboticlabs group to provide us with data and knowledge.
 
 ## FAQ
 Do I need some more ressources? 
