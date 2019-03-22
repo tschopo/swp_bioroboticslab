@@ -18,6 +18,7 @@ Install diktya, Keras, OpenCV, dll first.
 For this Jupyter Notebook you will need following dependencies:
 Install with pip from github:
 
+```
 pip install --user git+https://github.com/BioroboticsLab/bb_utils.git      
 pip install --user git+https://github.com/BioroboticsLab/bb_binary.git          
 pip install --user git+https://github.com/BioroboticsLab/diktya.git     
@@ -25,10 +26,12 @@ pip install --user git+https://github.com/BioroboticsLab/bb_pipeline.git
 pip install --user git+https://github.com/BioroboticsLab/bb_tracking.git   
 pip install --user git+https://github.com/BioroboticsLab/bb_behavior.git   
 pip install --user git+https://github.com/BioroboticsLab/bb_trajectory.git     
-
 ```
+
 You use an Apple and got a compiler problem with bb_binary?
 Build capnp manually by:
+
+```
 curl -O https://capnproto.org/capnproto-c++-0.6.1.tar.gz        
 tar zxf capnproto-c++-0.6.1.tar.gz                      
 cd capnproto-c++-0.6.1                        
