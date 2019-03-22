@@ -26,16 +26,17 @@ pip install --user git+https://github.com/BioroboticsLab/bb_tracking.git
 pip install --user git+https://github.com/BioroboticsLab/bb_behavior.git   
 pip install --user git+https://github.com/BioroboticsLab/bb_trajectory.git     
 
+```
 You use an Apple and got a compiler problem with bb_binary?
 Build capnp manually by:
-curl -O https://capnproto.org/capnproto-c++-0.6.1.tar.gz
-tar zxf capnproto-c++-0.6.1.tar.gz
-cd capnproto-c++-0.6.1
-./configure
-make -j4
-make install
-pip install pycapnp
-
+curl -O https://capnproto.org/capnproto-c++-0.6.1.tar.gz        
+tar zxf capnproto-c++-0.6.1.tar.gz                      
+cd capnproto-c++-0.6.1                        
+./configure                     
+make -j4                    
+make install                
+pip install pycapnp               
+```
 For Windows:
 https://capnproto.org/install.html#installation-windows
 
