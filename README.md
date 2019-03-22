@@ -10,13 +10,13 @@ For a more detailed overview of the Project a Mini-Paper can be found [here](htt
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-1. Software
-First you need to have Python 3.7 (2.6 not tested, yet). (Anaconda is also a good solution)
+1. Software\
+First you need to have Python 3.7 (2.6 not tested, yet). (Anaconda is also a good solution)\
 
-Install diktya, Keras, OpenCV, dll first.
+Install diktya, Keras, OpenCV, dll first.\
 
-For this Jupyter Notebook you will need following dependencies:
-Install with pip from github:
+For this Jupyter Notebook you will need following dependencies:\
+Install with pip from github:\
 
 ```
 pip install --user git+https://github.com/BioroboticsLab/bb_utils.git      
@@ -28,8 +28,8 @@ pip install --user git+https://github.com/BioroboticsLab/bb_behavior.git
 pip install --user git+https://github.com/BioroboticsLab/bb_trajectory.git     
 ```
 
-You use an Apple and got a compiler problem with bb_binary?
-Build capnp manually by:
+You use an Apple and got a compiler problem with bb_binary?\
+Build capnp manually by:\
 
 ```
 curl -O https://capnproto.org/capnproto-c++-0.6.1.tar.gz        
@@ -40,19 +40,19 @@ make -j4
 make install                
 pip install pycapnp               
 ```
-For Windows:
+For Windows use:
 https://capnproto.org/install.html#installation-windows
 
-2. Video path
-We have set the path to /videos. You can easily change this path in jupyter file if needed.
+2. Video path\
+We have set the path to /videos. You can easily change this path in jupyter file if needed.\
 
-3. BeesApp.apk
+3. BeesApp.apk\
 This app will help you to identify the bee for your test data sheet.
 <img src="img/tagging.png" alt="smiley" height="30%" width="30%">
 
 ### Installing
 
-Use git to download this repository (or download and unzip it).
+Use git to download this repository (or download and unzip it).\
 
 Start Jupyter Notebook:
 - open terminal
