@@ -3,6 +3,8 @@
 Our aim is to track bees with the Deep Learning Computer Vision Pipeline provided by the bb_behavior library which can be found under https://github.com/BioroboticsLab/bb_behavior.git and grap the bee-ID to eventually deduce the movement of her.
 ![Detected bee](img/detected.png?raw=true "Beetracking")
 
+For a more detailed overview of the Project a Mini-Paper can be found [here](https://docs.google.com/document/d/1O2LIAx2BCyRDDt-wLbLXtsrgQmu6-_1oG6h-2ebwNZY/edit).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
